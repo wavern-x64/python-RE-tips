@@ -1,2 +1,6 @@
 links:
 1. https://github.com/OALabs/Lab-Notes/blob/main/Python3/Examples.ipynb
+2. https://docs.python.org/3/library/struct.html#module-struct
+3. https://www.youtube.com/watch?v=TrAwfQlfDd8
+    a. A video demonstation of the code in this repo
+4. 
